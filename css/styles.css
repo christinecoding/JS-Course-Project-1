@@ -60,6 +60,10 @@ h1 {
   line-height: 0.5;
 }
 
+.category {
+  font-style: italic;
+}
+
 .quote {
   font-size: 2rem;
   font-weight: 400;
